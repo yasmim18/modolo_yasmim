@@ -1,0 +1,57 @@
+<style>
+  /* Add styles for the body */
+  body {
+    font-family: Calibri;
+    margin: 0;
+    padding: 0;
+  }
+
+  /* Add styles for the header */
+  header {
+    background-color: purple;
+    padding: 0.2px;
+    font-family: Comic Sans MS, serif;
+    color: white;
+    
+  }
+
+  /* Add styles for the navigation menu */
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0.2px;
+    display: flex;
+    justify-content: center;
+    background-color: purple;
+    font-family: Comic Sans MS, serif;
+  
+  }
+
+  nav li {
+    margin: 0 30px;
+  }
+
+  /* Add styles for the links in the navigation menu */
+  nav a {
+    text-decoration: underline;
+    color: white;
+    font-family: Comic Sans MS, serif;
+  }
+
+  /* Add styles for the main content */
+  main {
+    padding: 0px;
+    text-align: center;
+    background-color: purple;
+  }
+
+  /* Add styles for the footer */
+  footer {
+    background-color: purple;
+    padding: 0.1px;
+    text-align: center;
+    font-family: Comic Sans MS, serif;;
+    font-size: 15px;
+    color: white;
+  }
+</style>
