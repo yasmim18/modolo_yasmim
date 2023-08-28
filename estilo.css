@@ -8,7 +8,7 @@
 
   /* Add styles for the header */
   header {
-    background-color: purple;
+    background-color: #98FB98;
     padding: 0.2px;
     font-family: Comic Sans MS, serif;
     color: white;
@@ -22,7 +22,7 @@
     padding: 0.2px;
     display: flex;
     justify-content: center;
-    background-color: purple;
+    background-color: #006400;
     font-family: Comic Sans MS, serif;
   
   }
@@ -42,12 +42,12 @@
   main {
     padding: 0px;
     text-align: center;
-    background-color: purple;
+    background-color: white;
   }
 
   /* Add styles for the footer */
   footer {
-    background-color: purple;
+    background-color: white;
     padding: 0.1px;
     text-align: center;
     font-family: Comic Sans MS, serif;;
