@@ -8,7 +8,7 @@
 
   /* Add styles for the header */
   header {
-    background-color: #228B22;
+    background-color: #c1e6b2;
     padding: 0.2px;
     font-family: Comic Sans MS, serif; 
     color: white;
@@ -22,7 +22,7 @@
     padding: 0.2px;
     display: flex;
     justify-content: center;
-    background-color: #228B22;  
+    background-color: #c1e6b2;  
     font-family: Comic Sans MS, serif;
   
   }
