@@ -40,9 +40,16 @@
     <footer>
     <nav>
         <ul>
-          <li> <button type="button"> Botão 1 </button></li>
-          <li> <button type="button"> Botão 2 </button></li>
+          <li> <button id="tema1button"> Tema 1 </button></li>
+          <li> <button id="tema2button"> Tema 2 </button></li>
         </ul>
+
+        <script>
+            const changeColorButton2 = document.getElementById('tema2button');
+            changeColorButton2.addEventListener('click',() => {
+                document.body.style.backgroundColor = 'black';
+                document.header.style.backgroundColor = 'black';
+        </script>
       </nav>
       Copyright © 2023 
     </footer>
