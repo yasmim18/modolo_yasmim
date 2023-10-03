@@ -1,7 +1,7 @@
 <style>
   /* Add styles for the body */
   body {
-    font-family: Calibri;
+    font-family: Garamond;
     margin: 0;
     padding: 0;
   }
@@ -40,7 +40,7 @@
 
   /* Add styles for the main content */
   main {
-    padding: 0px;
+    padding: 2px;
     text-align: center;
     background-color: green;
   }
